@@ -1,1 +1,1 @@
-Artwork of the customs only.
+Artwork of the customs only. Must be png.
